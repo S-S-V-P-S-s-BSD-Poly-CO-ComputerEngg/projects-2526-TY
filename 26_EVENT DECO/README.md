@@ -1,10 +1,10 @@
-Project title :- Vishva Event Decoration System
+## Project title :- Vishva Event Decoration System
 
-  Project description :- This project is a comprehensive web-based platform designed to digitize the manual operations of a local decoration business. It replaces traditional physical registers by providing a centralized system for the shop owner to manage bookings, inventory (godown), and customer records. The system features a modern user interface for clients to browse decoration themes and a robust backend for administrative task management and scheduling.
+Project description :- This project is a comprehensive web-based platform designed to digitize the manual operations of a local decoration business. It replaces traditional physical registers by providing a centralized system for the shop owner to manage bookings, inventory (godown), and customer records. The system features a modern user interface for clients to browse decoration themes and a robust backend for administrative task management and scheduling.
 
-  Group Information :- Group No: 26
+## Group Information :- Group No: 26
 
-  Team Members : Himesh Patel, Mohan Deore, Dipesha Wani, Bhagyashree Marathe
+## Team Members : Himesh Patel, Mohan Deore, Dipesha Wani, Bhagyashree Marathe
 
   Tech Stack :-
   Frontend: HTML, CSS, JavaScript (React.js) 
